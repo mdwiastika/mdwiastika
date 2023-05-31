@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://giphy.com/embed/Dh5q0sShxgp13DwrvG)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Marcel Dwi Astika</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
