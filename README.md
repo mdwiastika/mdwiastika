@@ -1,7 +1,7 @@
 [![MasterHead]([https://giphy.com/embed/Dh5q0sShxgp13DwrvG](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fajayaadhav10%2Fajayaadhav10&psig=AOvVaw2TD-ceE76ZUDyAZ_il7Vrd&ust=1685594448574000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjA-uTenv8CFQAAAAAdAAAAABAE))](https://mdwiastika.io)
 <h1 align="center">Hi 👋, I'm Marcel Dwi Astika</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdwiastika&label=Profile%20views&color=0e75b6&style=flat" alt="mdwiastika" /> </p>
 
 - 🔭 I’m currently working on **Government Apps**
