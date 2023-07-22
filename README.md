@@ -11,10 +11,10 @@
 # 📊 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="flex: 48%; padding: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdwiastika&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdwiastika&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%;">
   </div>
   <div style="flex: 48%; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdwiastika&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mdwiastika&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" style="max-width: 100%;">
   </div>
 </div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdwiastika&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
