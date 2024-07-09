@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://mdwiastika.io)
 # 💫 About Me:
-🔭 I’m currently working on building a website<br>👯 I’m looking to collaborate on software testing<br>🌱 I’m currently learning ReactJS (Next.js)<br>💬 Ask me about Laravel & TailwindCSS<br>⚡ Fun fact - Nothing
+🔭 I’m currently working on building a website<br>👯 I’m looking to collaborate on software testing<br>🌱 I’m currently learning Bun.js & Next.js<br>💬 Ask me about Laravel & TailwindCSS<br>⚡ Fun fact - Nothing
 
 
 ## 🌐 Socials:
